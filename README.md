@@ -7,6 +7,10 @@
   <h1>Hi, I'm Agnia 👋</h1>
   <p><strong>AI • Creative Tools • Digital Projects</strong></p>
   <p>I build, experiment, and turn ideas into useful digital projects.</p>
+  <p>
+    <img src="https://img.shields.io/github/followers/agniagnia?label=Followers&style=flat" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/agniagnia?affiliations=OWNER&style=flat&label=Stars" alt="GitHub stars" />
+  </p>
 </td>
 </tr>
 </table>
