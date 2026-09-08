@@ -1,8 +1,12 @@
-# Hi, I'm Agnia 👋
+<p align="center">
+  <img src="https://github.com/agniagnia.png" width="140" alt="Agnia's profile photo" />
+</p>
 
-**AI • Creative Tools • Digital Projects**
+<h1 align="center">Hi, I'm Agnia 👋</h1>
 
-I build, experiment, and learn with AI and modern digital tools.
+<p align="center"><strong>AI • Creative Tools • Digital Projects</strong></p>
+
+<p align="center">I build, experiment, and learn with AI and modern digital tools.</p>
 
 ### Currently exploring
 
@@ -20,4 +24,4 @@ I build, experiment, and learn with AI and modern digital tools.
 
 ---
 
-*Keep building. Keep learning.*
+<p align="center"><i>Keep building. Keep learning.</i></p>
