@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Agnia 👋
 
-<!--
-**agniagnia/agniagnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI • Creative Tools • Digital Projects**
 
-Here are some ideas to get you started:
+I build, experiment, and learn with AI and modern digital tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently exploring
+
+- 🤖 AI & creative workflows
+- 🎨 Digital design & content creation
+- 🛠️ Automation and useful tools
+- 🚀 Building ideas into real projects
+
+### Projects
+
+- [tiagnia](https://github.com/agniagnia/tiagnia)
+- [teaku](https://github.com/agniagnia/teaku)
+- [wallet-gen](https://github.com/agniagnia/wallet-gen)
+- [verified-agent-identity](https://github.com/agniagnia/verified-agent-identity)
+
+---
+
+*Keep building. Keep learning.*
